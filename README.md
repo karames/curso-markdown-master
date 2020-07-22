@@ -4,7 +4,7 @@ _Descripción del proyecto._
 
 ![Imagen del curso](img/logo-karames.png)
 
-![Packagist License](https://img.shields.io/packagist/l/karames/curso-markdown-basico)
+![Packagist License](https://img.shields.io/packagist/l/karames/curso-markdown-master)
 
 ## 🚀 Comenzando
 
