@@ -10,28 +10,22 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/karames/curso-markdown-master/total?style=flat-square)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/karames/curso-markdown-master?style=flat-square)
 
-## 📑 Índice de Contenidos.-
+## 📑 Índice de Contenidos
 
-<!-- TOC -->
-
-- [Cleaning Admin](#cleaning-admin)
-  - [📑 Índice de Contenidos.-](#📑-índice-de-contenidos-)
-  - [🚀 Comenzando](#🚀-comenzando)
-    - [📋 Pre-requisitos](#📋-pre-requisitos)
-    - [🔧 Instalación](#🔧-instalación)
-  - [⚙️ Ejecutando las pruebas](#⚙️-ejecutando-las-pruebas)
-    - [🔩 Analizar las pruebas end-to-end](#🔩-analizar-las-pruebas-end-to-end)
-    - [⌨️ Y las pruebas de estilo de codificación](#⌨️-y-las-pruebas-de-estilo-de-codificación)
-  - [📦 Despliegue](#📦-despliegue)
-  - [🛠 Construido con](#🛠-construido-con)
-  - [🖇️ Contribuyendo](#🖇️-contribuyendo)
-  - [📖 Wiki](#📖-wiki)
-  - [📌 Versionado](#📌-versionado)
-  - [✒️ Autores](#✒️-autores)
-  - [📄 Licencia](#📄-licencia)
-  - [🎁 Agradecimientos](#🎁-agradecimientos)
-
-<!-- /TOC -->
+- [🚀 Comenzando](#🚀-comenzando)
+  - [📋 Pre-requisitos](#📋-pre-requisitos)
+  - [🔧 Instalación](#🔧-instalación)
+- [⚙️ Ejecutando las pruebas](#⚙️-ejecutando-las-pruebas)
+  - [🔩 Analizar las pruebas end-to-end](#🔩-analizar-las-pruebas-end-to-end)
+  - [⌨️ Y las pruebas de estilo de codificación](#⌨️-y-las-pruebas-de-estilo-de-codificación)
+- [📦 Despliegue](#📦-despliegue)
+- [🛠 Construido con](#🛠-construido-con)
+- [🖇️ Contribuyendo](#🖇️-contribuyendo)
+- [📖 Wiki](#📖-wiki)
+- [📌 Versionado](#📌-versionado)
+- [✒️ Autores](#✒️-autores)
+- [📄 Licencia](#📄-licencia)
+- [🎁 Agradecimientos](#🎁-agradecimientos)
 
 ## 🚀 Comenzando
 
