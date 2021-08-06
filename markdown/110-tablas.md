@@ -12,7 +12,7 @@
 - En la línea divisoria empleamos ":" para indica la alineación.
 - El resto de elementos de la tabla sólo encapsular con "|".
 
-```md
+```markdown
 | col 1 | col 2 | col 3 |
 | ----- | ----- | ----- |
 | 1     | 2     | 3     |

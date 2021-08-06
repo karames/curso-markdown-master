@@ -1,6 +1,6 @@
 # Guía Básica de Markdown
 
-![Imagén del curso](img/Markdown.png)
+![Imagen del curso](img/Markdown.png)
 
 ## Índice
 
